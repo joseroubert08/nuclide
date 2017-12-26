@@ -61,7 +61,7 @@
     "lodash.memoize": "3.0.4",
     "log4js": "0.6.38",
     "lru-cache": "4.0.1",
-    "marked": "0.3.6",
+    "marked": "0.3.9",
     "minimatch": "3.0.3",
     "mkdirp": "0.5.1",
     "mv": "2.1.1",
