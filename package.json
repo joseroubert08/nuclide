@@ -33,7 +33,9 @@
     "lint": "eslint",
     "lint-all": "eslint .",
     "fix-all": "eslint --fix .",
-    "test": "npm run lint-all && npm run flow"
+    "test": "npm run lint-all && npm run flow",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "async-to-generator": "1.0.0",
@@ -89,7 +91,8 @@
     "uuid": "2.0.3",
     "ws": "1.1.1",
     "xml2js": "0.4.17",
-    "yargs": "3.32.0"
+    "yargs": "3.32.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "atom-grammar-test": "0.6.3",
@@ -145,5 +148,6 @@
     "nuclide-format-js",
     "set-syntax",
     "sort-lines"
-  ]
+  ],
+  "snyk": true
 }
