@@ -63,7 +63,7 @@
     "lru-cache": "4.0.1",
     "marked": "0.3.6",
     "minimatch": "3.0.3",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.0",
     "mv": "2.1.1",
     "node-fetch": "1.6.3",
     "nullthrows": "1.0.0",
