@@ -89,7 +89,7 @@
     "uuid": "2.0.3",
     "ws": "1.1.1",
     "xml2js": "0.4.17",
-    "yargs": "3.32.0"
+    "yargs": "16.0.0"
   },
   "devDependencies": {
     "atom-grammar-test": "0.6.3",
