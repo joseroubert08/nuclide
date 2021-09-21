@@ -81,7 +81,7 @@
     "shell-quote": "1.6.1",
     "simple-text-buffer": "9.2.11",
     "split": "1.0.0",
-    "ssh2": "0.5.3",
+    "ssh2": "1.0.0",
     "strip-ansi": "3.0.1",
     "symbol-observable": "1.0.4",
     "temp": "0.8.3",
